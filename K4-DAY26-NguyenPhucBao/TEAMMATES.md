@@ -2,4 +2,4 @@
 
 | Họ và tên | MSSV |
 |---|---|
-| Nguyen Phuc Bao | 2A202602925 |
+| Nguyễn Phúc Bảo | 2A202602925 |
